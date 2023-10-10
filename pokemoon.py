@@ -1,7 +1,7 @@
 """
 dans ce module on définit le pokemoon
 """
-from type import efficacite, eau, feu, plante 
+from type_poke import efficacite, eau, feu, plante 
 
 class Pokemoon:
 
