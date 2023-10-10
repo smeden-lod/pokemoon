@@ -1,7 +1,7 @@
 feu = True, False, False
 eau = False, True, False
 plante = False, False, True
-éfficatité = {
+efficatite = {
     (feu , plante) : True, #renvoie True si il y a éfficacité de type sinon     False
     (feu , eau) : False,
     (feu , feu) : False,
