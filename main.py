@@ -28,7 +28,7 @@ c1 = Pokemoon("salamèche", 30, True, False, False) #Tous les différents Pokemo
 c2 = Pokemoon("Darumarond", 30, True, False, False)
 c3 = Pokemoon("Carapuce", 30, False, True, False)
 c4 = Pokemoon("Moustillon", 30, False, True, False)
-c5 = Pokemoon("Bublizzare", 30, False, False, True)
+c5 = Pokemoon("Bulbizzare", 30, False, False, True)
 c6 = Pokemoon("Vipélierre", 30, False, False, True)
 
 # choix1 = int(input('c1, c2, c3, c4, c5, c6'))
