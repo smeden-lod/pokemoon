@@ -1,5 +1,5 @@
 """
-Le module princil
+Le module principal
 """
 from pokemoon import Pokemoon
 
