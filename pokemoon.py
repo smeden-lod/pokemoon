@@ -1,4 +1,4 @@
-from .type import efficacite, eau, feu, plante 
+from type import efficacite, eau, feu, plante 
 
 class Pokemoon:
 
