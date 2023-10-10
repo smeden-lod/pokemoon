@@ -1,3 +1,5 @@
+from .type import efficacite, eau, feu, plante 
+
 class Pokemoon:
 
     def __init__(self, n: str, pv: int, type_feu: bool, type_eau: bool, type_plante: bool) -> None:
@@ -17,7 +19,7 @@ class Pokemoon:
         if action == 1 :
             other.pv -=8
         if action == 2 :
-            if éfficatité[(self.type,other.type)]:
+            if efficacite[(self.type,other.type)]:
                 other.pv -= 30
                 print("super efficace")
             else :
